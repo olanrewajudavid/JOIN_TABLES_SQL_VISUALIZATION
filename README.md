@@ -1,7 +1,10 @@
 # JOIN_TABLES_SQL_VISUALIZATION
-# This piece joins two datasets using INNER JOIN SQL SYNTAX
-# Also visualization chart was created using PowerBI
-# SSMS was used and below is the code
+## This piece joins two datasets using INNER JOIN SQL SYNTAX
+### Also visualization chart was created using PowerBI
+### Dowload the SQL code and run in SQL Server: You can also use MySQL Server
+### SQL Server was used and below is the code
+
+
 
 ``` use ap;
 /* Create Table to copy new data into */
